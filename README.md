@@ -2,11 +2,6 @@
 
 This is a C++ program designed to calculate the letter grade based on a student's score and the class average score, using a predefined grade chart. The program prompts the user to input their score and average, then outputs the corresponding letter grade from the chart.
 
-## Requirements
-
-- C++11 or later.
-- A C++ compiler that supports standard libraries like `<iostream>`, `<sstream>`, `<vector>`, and `<limits>`.
-
 ## How to Use
 
 #### -Method 1:
