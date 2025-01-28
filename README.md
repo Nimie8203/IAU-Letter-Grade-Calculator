@@ -1,16 +1,6 @@
 # IAU-Letter-Grade-Calculator
 
-This is a C++ program designed to calculate the letter grade based on a student's score and average score, using a predefined grade chart. The program prompts the user to input their score and average, then outputs the corresponding letter grade from the chart.
-
-## Features
-
-- Accepts user input for score and average.
-- Provides validation to ensure inputs are within the specified range.
-- Displays the corresponding letter grade based on the input values.
-  
-## Grade Chart
-
-The program uses a grade chart, where the rows represent different score ranges and the columns represent different average ranges. The values in the chart correspond to the letter grades.
+This is a C++ program designed to calculate the letter grade based on a student's score and the class average score, using a predefined grade chart. The program prompts the user to input their score and average, then outputs the corresponding letter grade from the chart.
 
 ## Requirements
 
@@ -18,6 +8,12 @@ The program uses a grade chart, where the rows represent different score ranges 
 - A C++ compiler that supports standard libraries like `<iostream>`, `<sstream>`, `<vector>`, and `<limits>`.
 
 ## How to Use
+
+#### -Method 1:
+
+Just download the exe from realease.
+
+#### -Method 2:
 
 1. Clone or download this repository to your local machine.
 2. Compile the `IAU-Letter-Grade-Calculator` source code using a C++ compiler:
